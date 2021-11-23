@@ -103,6 +103,7 @@ pub fn save_insurance_contract(
     })
 }
 
+
 /// Creates a `CloseInsuranceContract` instruction
 pub fn close_insurance_contract(
     program_id: &Pubkey,
